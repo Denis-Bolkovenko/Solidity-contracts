@@ -1,2 +1,2 @@
 # Solidity-contracts
-Smart-contract-toolkit
+Smart-contracts with explanation
