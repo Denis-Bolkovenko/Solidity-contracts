@@ -1,2 +1,2 @@
 # Solidity-contracts
-Smart-contracts with explanation
+Solidity smart-contracts with explanation
